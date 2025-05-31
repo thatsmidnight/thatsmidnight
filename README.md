@@ -7,6 +7,7 @@ I have a website that I probably haven't updated for at least a year: [thatsmidn
 ## Who?
 
 - 💻 Developer: Python, self-taught since 2013
+- 🏫 Education: B.S. in Mathematics
 - 👨‍💼 Position: Senior Application Developer
 - 🎵 Hobby: [Sometimes I make music](https://soundcloud.com/thatsmidnight)
 - 💖 Interests: reading, listening to music, walking my dog
