@@ -12,6 +12,8 @@ I have a website that I probably haven't updated for at least a year: [thatsmidn
 - 🎵 Hobby: [Sometimes I make music](https://soundcloud.com/thatsmidnight)
 - 💖 Interests: reading, listening to music, walking my dog
 
-## Huh?
+## Contact?
 
-I should probably set up an email address for this, but I'm too lazy oops ;)
+You can reach me through the following channels:
+
+- 📧 Email: `thatsmidnight@thatsmidnight.com`
