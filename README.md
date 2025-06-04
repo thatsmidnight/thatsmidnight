@@ -1,4 +1,4 @@
-# Hi, I'm ThatsMidnight ~🐦
+# Hi, I'm ThatsMidnight, but you can call me Chad ~🐦
 
 ###### ♂️ *Pronouns: he/him/his* ♂️
 
