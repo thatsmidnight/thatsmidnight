@@ -2,7 +2,7 @@
 
 ###### ♂️ *Pronouns: he/him/his* ♂️
 
-I have a website that I probably haven't updated for at least a year: [thatsmidnight.com](https://thatsmidnight.com). You should visit it anyways. Or not.
+You can learn more about me at my personal website here: [thatsmidnight.com](https://thatsmidnight.com).
 
 ## Who?
 
@@ -14,6 +14,6 @@ I have a website that I probably haven't updated for at least a year: [thatsmidn
 
 ## Contact?
 
-You can reach me through the following channels:
+You can reach me through the following channel(s):
 
 - 📧 Email: `thatsmidnight@thatsmidnight.com`
